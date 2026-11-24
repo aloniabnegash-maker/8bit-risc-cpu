@@ -149,5 +149,6 @@ images/cpu.png           screenshot of the CPU circuit
 
 ## Author
 
-Aloniab Negash, Computer Engineering, University of Houston-Clear Lake.
+Aloniab Negash, Computer Engineering
 GitHub: [aloniabnegash-maker](https://github.com/aloniabnegash-maker)
+Linkedin: https://www.linkedin.com/in/aloniabnegash001/
